@@ -79,4 +79,4 @@ O sistema de gerenciamento de pacientes oferece as seguintes funcionalidades:
 
 ## Considerações Finais
 
-Este projeto foi desenvolvido para demonstrar conceitos de manipulação de listas encadeadas em C e gerenciamento de dados básico. Ele pode ser expandido para incluir funcionalidades adicionais, como interface gráfica ou suporte a banco de dados relacional.
+Este projeto foi desenvolvido para demonstrar conceitos de manipulação de listas encadeadas em C e gerenciamento de dados básico.
